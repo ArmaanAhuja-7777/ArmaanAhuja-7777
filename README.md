@@ -35,7 +35,7 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.thapar.edu)** pu
 - 🌟 Passionate about Space, Astronomy, and Sci-Fi
 - 📝 I write technical blogs and articles
 - 💬 Ask me about programming for Arduino, Flutter, or anything related to hardware and software
-- 📙 Check out my [Resume](https://www.linkedin.com/in/armaan-ahuja-250758221/)
+- 📙 Check out my [Resume](https://srsbkn.eu.org/ArmaanAhuja_resume.pdf)
 - 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX 🚀 and watch a lot of Sci-Fi Movies 🎬
 
   
