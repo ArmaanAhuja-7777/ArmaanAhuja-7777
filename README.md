@@ -81,7 +81,7 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.thapar.edu)** pu
 <a href="https://www.onshape.com/" target="_blank" rel="noreferrer"> <img src="https://www.sculpteo.com/wp-content/uploads/2024/07/Onshape_logo-300x300.png" alt="onshape" width="40" height="40"/> </a> 
 </p>
 
-<p align="center">
+<!--<p align="center">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmaanAhuja-7777&layout=compact&theme=radical" alt="ArmaanAhuja-7777" />
     <img width="55%" src="https://github-readme-stats.vercel.app/api?username=ArmaanAhuja-7777&show_icons=true&include_all_commits=true&theme=radical" alt="ArmaanAhuja-7777" />
 </p>
@@ -93,7 +93,7 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.thapar.edu)** pu
 
 <p align="center">
     <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArmaanAhuja-7777&theme=github_dark">
-</p>
+</p> -->
 
 <img width="50%" height="100%" src="https://user-images.githubusercontent.com/65810521/185932179-acfa2ec4-d376-48b4-ae25-62477129f16d.png" align=left>
 
