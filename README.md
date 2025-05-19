@@ -24,11 +24,11 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.thapar.edu)** pu
 
 ## ⚡️ A Few Quick Facts
 
-<img width="490" height="270" src="" align="right">
-
--  <a href="https://newflixy.web.app">
+ <a href="https://newflixy.web.app">
         <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width= "30%">
-    </a>  I enjoy working on:
+    </a>
+
+I enjoy working on:
   - 📱 Mobile and Web Development Projects using Dart & Flutter
   - 🖼 Frontend Development
   - 🤖 Robotics & Hardware Projects
