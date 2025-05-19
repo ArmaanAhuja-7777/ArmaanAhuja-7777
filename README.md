@@ -26,7 +26,7 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.thapar.edu)** pu
 
 <img width="490" height="270" src="" align="right">
 
-- <img src="https://media.giphy.com/media/VzGQrj8sLH4GLcSiG1/giphy.gif?cid=ecf05e47ylgaoa79ummcz8hw6b50d1t9ig9nw9i2x98xnexr&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="30">  I enjoy working on:
+- <img src="https://media.giphy.com/media/XLsDo3hdxWpdm/giphy.gif" width="30">  I enjoy working on:
   - 📱 Mobile and Web Development Projects using Dart & Flutter
   - 🖼 Frontend Development
   - 🤖 Robotics & Hardware Projects
@@ -55,8 +55,6 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.thapar.edu)** pu
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ArmaanAhuja-7777&label=Profile%20views&color=0e75b6&style=flat" alt="ArmaanAhuja-7777" /> </p>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ArmaanAhuja-7777" alt="ArmaanAhuja-7777" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/ArmaanAhuja?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
 
 <br>
 
