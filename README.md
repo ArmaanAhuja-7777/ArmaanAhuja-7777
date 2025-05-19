@@ -24,7 +24,7 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.thapar.edu)** pu
 
 ## ⚡️ A Few Quick Facts
 
-<img width="490" height="270" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" align="right">
+<img width="490" height="270" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZpd2hjZzRzeWpmOXg4ZWYwN2MybDNkenE1ZnQ4ZTVlbTJ4bWgwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" align="right">
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on:
   - 📱 Mobile and Web Development Projects using Dart & Flutter
