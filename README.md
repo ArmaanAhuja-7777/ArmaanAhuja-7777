@@ -95,7 +95,7 @@ I enjoy working on:
 
 <img width="50%" height="100%" src="https://user-images.githubusercontent.com/65810521/185932179-acfa2ec4-d376-48b4-ae25-62477129f16d.png" align=left>
 
-<h2><b>"Work like a Samurai, Making no noise, let your work be your voice."</b></h2>
+<h2><b><em>"Per aspera ad astra"</em></b></h2>
 
 <br>
 
