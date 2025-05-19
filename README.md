@@ -4,7 +4,7 @@ I am <b>Armaan Ahuja</b>, thanks for taking the time to read my GitHub profile! 
 
 <p align="center">
     <a href="https://newflixy.web.app">
-        <img src="https://i.imgur.com/PqoavY9.gif" width= "30%">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZ1NHRtbGcydXJwcmt5cTRraGNxbHRkdmdhZnk0YmYweXB5NnpwNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width= "30%">
     </a>
 </p>
 
