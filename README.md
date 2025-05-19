@@ -24,9 +24,9 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.thapar.edu)** pu
 
 ## ⚡️ A Few Quick Facts
 
-<img width="490" height="270" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZpd2hjZzRzeWpmOXg4ZWYwN2MybDNkenE1ZnQ4ZTVlbTJ4bWgwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" align="right">
+<img width="490" height="270" src="" align="right">
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on:
+- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZpd2hjZzRzeWpmOXg4ZWYwN2MybDNkenE1ZnQ4ZTVlbTJ4bWgwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="30">  I enjoy working on:
   - 📱 Mobile and Web Development Projects using Dart & Flutter
   - 🖼 Frontend Development
   - 🤖 Robotics & Hardware Projects
@@ -46,7 +46,7 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.thapar.edu)** pu
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://api.whatsapp.com/send?phone=+917973252563" target="blank"><img align="center" src="https://simpleicons.vercel.app/whatsapp/145A32" alt="whatsapp" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/armaan-ahuja-250758221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armaan-ahuja-250758221" height="30" width="40" /></a>
+   
     <!-- <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a> -->
 </p>
 
